@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 1ef0ad94988926d4696e86ade6b05002
+timeCreated: 1523779215
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Object002
+    100002: Object003
+    100004: "\u7C97\u904E\u6FFE_\u4E0A\u84CB"
+    100006: "\u7C97\u904E\u6FFE_\u4E0B\u84CB"
+    100008: "\u7C97\u904E\u6FFE_\u5E95\u5EA7"
+    100010: "\u7C97\u904E\u6FFE_\u65CB\u8F49"
+    100012: "\u7C97\u904E\u6FFE_\u677F\u91D1"
+    100014: "\u7C97\u904E\u6FFE_\u6876\u5B50"
+    100016: "\u7C97\u904E\u6FFE_\u7BA1\u5B50"
+    100018: //RootNode
+    400000: Object002
+    400002: Object003
+    400004: "\u7C97\u904E\u6FFE_\u4E0A\u84CB"
+    400006: "\u7C97\u904E\u6FFE_\u4E0B\u84CB"
+    400008: "\u7C97\u904E\u6FFE_\u5E95\u5EA7"
+    400010: "\u7C97\u904E\u6FFE_\u65CB\u8F49"
+    400012: "\u7C97\u904E\u6FFE_\u677F\u91D1"
+    400014: "\u7C97\u904E\u6FFE_\u6876\u5B50"
+    400016: "\u7C97\u904E\u6FFE_\u7BA1\u5B50"
+    400018: //RootNode
+    2300000: Object002
+    2300002: Object003
+    2300004: "\u7C97\u904E\u6FFE_\u4E0A\u84CB"
+    2300006: "\u7C97\u904E\u6FFE_\u4E0B\u84CB"
+    2300008: "\u7C97\u904E\u6FFE_\u5E95\u5EA7"
+    2300010: "\u7C97\u904E\u6FFE_\u65CB\u8F49"
+    2300012: "\u7C97\u904E\u6FFE_\u677F\u91D1"
+    2300014: "\u7C97\u904E\u6FFE_\u6876\u5B50"
+    2300016: "\u7C97\u904E\u6FFE_\u7BA1\u5B50"
+    3300000: Object002
+    3300002: Object003
+    3300004: "\u7C97\u904E\u6FFE_\u4E0A\u84CB"
+    3300006: "\u7C97\u904E\u6FFE_\u4E0B\u84CB"
+    3300008: "\u7C97\u904E\u6FFE_\u5E95\u5EA7"
+    3300010: "\u7C97\u904E\u6FFE_\u65CB\u8F49"
+    3300012: "\u7C97\u904E\u6FFE_\u677F\u91D1"
+    3300014: "\u7C97\u904E\u6FFE_\u6876\u5B50"
+    3300016: "\u7C97\u904E\u6FFE_\u7BA1\u5B50"
+    4300000: "\u7C97\u904E\u6FFE_\u5E95\u5EA7"
+    4300002: Object002
+    4300004: Object003
+    4300006: "\u7C97\u904E\u6FFE_\u677F\u91D1"
+    4300008: "\u7C97\u904E\u6FFE_\u4E0A\u84CB"
+    4300010: "\u7C97\u904E\u6FFE_\u4E0B\u84CB"
+    4300012: "\u7C97\u904E\u6FFE_\u6876\u5B50"
+    4300014: "\u7C97\u904E\u6FFE_\u65CB\u8F49"
+    4300016: "\u7C97\u904E\u6FFE_\u7BA1\u5B50"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
