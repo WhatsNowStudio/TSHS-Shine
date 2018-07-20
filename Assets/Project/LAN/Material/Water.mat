@@ -97,8 +97,8 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ReflDistort: 0.339
-    - _RefrDistort: 0.339
+    - _ReflDistort: 0.052
+    - _RefrDistort: 0.052
     - _Shininess: 200
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -107,7 +107,7 @@ Material:
     - _WaveScale: 0.15
     - _ZWrite: 1
     m_Colors:
-    - WaveSpeed: {r: 23.85, g: 70, b: 14.78, a: -85.1}
+    - WaveSpeed: {r: 3, g: 3, b: 3, a: -3}
     - _AnimationDirection: {r: 1, g: 1, b: 1, a: 1}
     - _AnimationTiling: {r: 2.2, g: 2.2, b: -1.1, a: -1.1}
     - _BaseColor: {r: 0, g: 0, b: 0, a: 0}
@@ -126,7 +126,7 @@ Material:
     - _HorizonColor: {r: 0.172, g: 0.463, b: 0.435, a: 1}
     - _InvFadeParemeter: {r: 0.001, g: 0, b: 0, a: 0}
     - _ReflectionColor: {r: 0, g: 0, b: 0, a: 0}
-    - _RefrColor: {r: 0.34, g: 0.85, b: 0.92, a: 1}
+    - _RefrColor: {r: 0.10510381, g: 0.7941176, b: 0.48049745, a: 1}
     - _SpecularColor: {r: 0.72, g: 0.72, b: 0.72, a: 1}
     - _WorldLightDir: {r: 0, g: 0.1, b: -0.5, a: 0}
     - _horizonColor: {r: 0.172, g: 0.463, b: 0.435, a: 0}

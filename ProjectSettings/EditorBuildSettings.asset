@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/7.Scene/MoviePlayTestOnIOS.unity
     guid: a749138770c39054aacc74aba39f41de
   - enabled: 0
+    path: "Assets/Project/LAN/Scene/\u4E2D\u5E84AR.unity"
+    guid: 8d56612e504dcc64ab841ddcb4240799
+  - enabled: 0
     path: Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene.unity
     guid: c159f2591a9b5c843b0a0442451f78f8
   - enabled: 0
