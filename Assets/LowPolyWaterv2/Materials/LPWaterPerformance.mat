@@ -89,10 +89,10 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0, g: 0.5514706, b: 0.41455367, a: 1}
-    - _DeepColor: {r: 0, g: 1, b: 0.8758622, a: 0.703}
+    - _DeepColor: {r: 0, g: 1, b: 0.8758622, a: 1}
     - _Direction_: {r: -1, g: -0.00000008742278, b: -0.059999995, a: -0.0000000052453664}
-    - _FresColor: {r: 0.08823532, g: 1, b: 1, a: 0.678}
-    - _ShoreColor: {r: 0, g: 1, b: 0.7103448, a: 0.522}
+    - _FresColor: {r: 0.08823532, g: 1, b: 1, a: 1}
+    - _ShoreColor: {r: 0, g: 1, b: 0.7103448, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
     - _Sun: {r: -0, g: -0, b: -1, a: 0}
     - _SunColor: {r: 0.69979703, g: 1, b: 0.41176468, a: 1}
