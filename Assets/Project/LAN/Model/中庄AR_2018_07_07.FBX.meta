@@ -348,6 +348,34 @@ ModelImporter:
     100684: "\u7368\u7ACB_\u904E\u6E21\u5C64Cut11"
     100686: Water001
     100688: Object001
+    100690: Object008
+    100692: Object014
+    100694: Object024
+    100696: Object026
+    100698: Object040
+    100700: Object042
+    100702: Object046
+    100704: Object050
+    100706: Object064
+    100708: Object070
+    100710: Object074
+    100712: Object080
+    100714: Object086
+    100716: Rocky01
+    100718: Rocky013
+    100720: Rocky02
+    100722: Rocky03
+    100724: Rocky04
+    100726: Rocky05
+    100728: Rocky06
+    100730: Rocky07
+    100732: Rocky08
+    100734: Rocky09
+    100736: Rocky10
+    100738: Rocky11
+    100740: Rocky12
+    100742: Rocky14
+    100744: Rocky15
     400000: "ALL_\u539F\u72C0\u571F\u5C64+\u5CA9\u76E4\u5C64"
     400002: "ALL_\u5CA9\u5C64"
     400004: "ALL_\u7C97\u8CEA\u6BBC\u5C64"
@@ -693,6 +721,34 @@ ModelImporter:
     400684: "\u7368\u7ACB_\u904E\u6E21\u5C64Cut11"
     400686: Water001
     400688: Object001
+    400690: Object008
+    400692: Object014
+    400694: Object024
+    400696: Object026
+    400698: Object040
+    400700: Object042
+    400702: Object046
+    400704: Object050
+    400706: Object064
+    400708: Object070
+    400710: Object074
+    400712: Object080
+    400714: Object086
+    400716: Rocky01
+    400718: Rocky013
+    400720: Rocky02
+    400722: Rocky03
+    400724: Rocky04
+    400726: Rocky05
+    400728: Rocky06
+    400730: Rocky07
+    400732: Rocky08
+    400734: Rocky09
+    400736: Rocky10
+    400738: Rocky11
+    400740: Rocky12
+    400742: Rocky14
+    400744: Rocky15
     2100000: ALL
     2100002: JJ
     2100004: No Name
@@ -706,6 +762,9 @@ ModelImporter:
     2100020: grass1
     2100022: road
     2100024: Road
+    2100026: "\u908A\u5761\u5CA9\u77F3"
+    2100028: "\u8D77\u53F8"
+    2100030: Rock
     2300000: "ALL_\u539F\u72C0\u571F\u5C64+\u5CA9\u76E4\u5C64"
     2300002: "ALL_\u5CA9\u5C64"
     2300004: "ALL_\u7C97\u8CEA\u6BBC\u5C64"
@@ -1043,6 +1102,34 @@ ModelImporter:
     2300668: "\u7368\u7ACB_\u904E\u6E21\u5C64Cut11"
     2300670: Water001
     2300672: Object001
+    2300674: Object008
+    2300676: Object014
+    2300678: Object024
+    2300680: Object026
+    2300682: Object040
+    2300684: Object042
+    2300686: Object046
+    2300688: Object050
+    2300690: Object064
+    2300692: Object070
+    2300694: Object074
+    2300696: Object080
+    2300698: Object086
+    2300700: Rocky01
+    2300702: Rocky013
+    2300704: Rocky02
+    2300706: Rocky03
+    2300708: Rocky04
+    2300710: Rocky05
+    2300712: Rocky06
+    2300714: Rocky07
+    2300716: Rocky08
+    2300718: Rocky09
+    2300720: Rocky10
+    2300722: Rocky11
+    2300724: Rocky12
+    2300726: Rocky14
+    2300728: Rocky15
     3300000: "ALL_\u539F\u72C0\u571F\u5C64+\u5CA9\u76E4\u5C64"
     3300002: "ALL_\u5CA9\u5C64"
     3300004: "ALL_\u7C97\u8CEA\u6BBC\u5C64"
@@ -1380,6 +1467,34 @@ ModelImporter:
     3300668: "\u7368\u7ACB_\u904E\u6E21\u5C64Cut11"
     3300670: Water001
     3300672: Object001
+    3300674: Object008
+    3300676: Object014
+    3300678: Object024
+    3300680: Object026
+    3300682: Object040
+    3300684: Object042
+    3300686: Object046
+    3300688: Object050
+    3300690: Object064
+    3300692: Object070
+    3300694: Object074
+    3300696: Object080
+    3300698: Object086
+    3300700: Rocky01
+    3300702: Rocky013
+    3300704: Rocky02
+    3300706: Rocky03
+    3300708: Rocky04
+    3300710: Rocky05
+    3300712: Rocky06
+    3300714: Rocky07
+    3300716: Rocky08
+    3300718: Rocky09
+    3300720: Rocky10
+    3300722: Rocky11
+    3300724: Rocky12
+    3300726: Rocky14
+    3300728: Rocky15
     4300000: Plane001
     4300002: Box001
     4300004: Rectangle001
@@ -1717,6 +1832,34 @@ ModelImporter:
     4300668: "\u7368\u7ACB_\u7C97\u8CEA\u6BBC\u5C64Cut45"
     4300670: Water001
     4300672: Object001
+    4300674: Object008
+    4300676: Object014
+    4300678: Object024
+    4300680: Object026
+    4300682: Object040
+    4300684: Object042
+    4300686: Object046
+    4300688: Object050
+    4300690: Object064
+    4300692: Object070
+    4300694: Object074
+    4300696: Object080
+    4300698: Object086
+    4300700: Rocky03
+    4300702: Rocky08
+    4300704: Rocky07
+    4300706: Rocky06
+    4300708: Rocky05
+    4300710: Rocky04
+    4300712: Rocky09
+    4300714: Rocky10
+    4300716: Rocky11
+    4300718: Rocky12
+    4300720: Rocky013
+    4300722: Rocky14
+    4300724: Rocky15
+    4300726: Rocky01
+    4300728: Rocky02
   externalObjects: {}
   materials:
     importMaterials: 1
