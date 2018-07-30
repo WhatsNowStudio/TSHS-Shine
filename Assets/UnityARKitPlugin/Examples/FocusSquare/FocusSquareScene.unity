@@ -481,7 +481,8 @@ Prefab:
       propertyPath: fsm.states.Array.data[1].actionData.fsmGameObjectParams.Array.data[0].value
       value: 
       objectReference: {fileID: 7}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114142513262985934, guid: 638b6bf51df414f25893679aa814bd2c, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 638b6bf51df414f25893679aa814bd2c, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &458791597
