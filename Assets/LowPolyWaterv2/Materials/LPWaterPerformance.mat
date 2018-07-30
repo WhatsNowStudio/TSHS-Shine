@@ -95,4 +95,4 @@ Material:
     - _ShoreColor: {r: 0, g: 1, b: 1, a: 0.522}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
     - _Sun: {r: -0, g: -0, b: -1, a: 0}
-    - _SunColor: {r: 0.69979703, g: 1, b: 0.41176468, a: 1}
+    - _SunColor: {r: 0.41176468, g: 0.878296, b: 1, a: 1}
