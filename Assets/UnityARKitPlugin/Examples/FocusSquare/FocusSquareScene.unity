@@ -261,13 +261,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 16}
-  m_LocalRotation: {x: -0.5562795, y: -0.28372726, z: -0.22761722, w: -0.7471562}
+  m_LocalRotation: {x: -0.7220246, y: -0.4246727, z: -0.16101801, w: -0.5219261}
   m_LocalPosition: {x: -0.19, y: 0.831, z: -0.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 135.405, y: 251.995, z: 247.065}
+  m_LocalEulerAnglesHint: {x: 141.90799, y: 300.829, z: 276.896}
 --- !u!108 &29
 Light:
   m_ObjectHideFlags: 0
@@ -476,21 +476,21 @@ Prefab:
       propertyPath: m_RootOrder
       value: 8
       objectReference: {fileID: 0}
-    - target: {fileID: 114145703276712590, guid: 962af5479cb74d04598895a191247250,
+    - target: {fileID: 114660195238532490, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
       value: 
-      objectReference: {fileID: 1873077145}
-    - target: {fileID: 114145703276712590, guid: 962af5479cb74d04598895a191247250,
-        type: 2}
-      propertyPath: fsm.variables.gameObjectVariables.Array.data[0].value
-      value: 
-      objectReference: {fileID: 1873077145}
+      objectReference: {fileID: 464584998}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873077145}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
+      propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[2].gameObject.value
+      value: 
+      objectReference: {fileID: 458791600}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[3].gameObject.value
@@ -503,9 +503,34 @@ Prefab:
       objectReference: {fileID: 2045406692}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
+      propertyPath: fsm.states.Array.data[2].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
+      value: 
+      objectReference: {fileID: 458791600}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
       propertyPath: fsm.states.Array.data[2].actionData.fsmPropertyParams.Array.data[0].TargetObject.value
       value: 
       objectReference: {fileID: 2045406692}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
+      value: 
+      objectReference: {fileID: 458791599}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmOwnerDefaultParams.Array.data[1].gameObject.value
+      value: 
+      objectReference: {fileID: 458791598}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
+      propertyPath: fsm.states.Array.data[4].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
+      value: 
+      objectReference: {fileID: 458791599}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
+      propertyPath: fsm.states.Array.data[4].actionData.fsmOwnerDefaultParams.Array.data[1].gameObject.value
+      value: 
+      objectReference: {fileID: 458791598}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.states.Array.data[5].actionData.fsmGameObjectParams.Array.data[0].value
@@ -515,22 +540,37 @@ Prefab:
         type: 2}
       propertyPath: fsm.states.Array.data[5].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873077145}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.states.Array.data[5].actionData.fsmOwnerDefaultParams.Array.data[1].gameObject.value
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873077145}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.states.Array.data[5].actionData.fsmOwnerDefaultParams.Array.data[2].gameObject.value
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873077145}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.states.Array.data[6].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
       value: 
       objectReference: {fileID: 747402895}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
+      propertyPath: fsm.states.Array.data[7].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
+      value: 
+      objectReference: {fileID: 458791600}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[1].value
+      value: 
+      objectReference: {fileID: 458791600}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[2].value
+      value: 
+      objectReference: {fileID: 458791598}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.variables.gameObjectVariables.Array.data[4].value
@@ -548,56 +588,42 @@ Prefab:
       objectReference: {fileID: 1873077145}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[7].value
+      value: 
+      objectReference: {fileID: 458791599}
+    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
+        type: 2}
       propertyPath: fsm.variables.objectVariables.Array.data[0].value
       value: 
       objectReference: {fileID: 2045406692}
     - target: {fileID: 114145703276712590, guid: 962af5479cb74d04598895a191247250,
         type: 2}
-      propertyPath: fsm.states.Array.data[1].actionData.actionIsOpen.Array.data[1]
-      value: 1
-      objectReference: {fileID: 0}
+      propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
+      value: 
+      objectReference: {fileID: 1873077145}
     - target: {fileID: 114145703276712590, guid: 962af5479cb74d04598895a191247250,
         type: 2}
-      propertyPath: fsm.states.Array.data[1].actionData.actionIsOpen.Array.data[2]
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114145703276712590, guid: 962af5479cb74d04598895a191247250,
-        type: 2}
-      propertyPath: fsm.states.Array.data[1].actionData.actionIsOpen.Array.data[3]
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1843125176405160, guid: 962af5479cb74d04598895a191247250, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
-        type: 2}
-      propertyPath: fsm.states.Array.data[0].actionData.actionIsOpen.Array.data[0]
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
-        type: 2}
-      propertyPath: fsm.preprocessed
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
-        type: 2}
-      propertyPath: fsm.states.Array.data[0].actionData.actionIsOpen.Array.data[1]
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
-        type: 2}
-      propertyPath: fsm.states.Array.data[0].actionData.actionIsOpen.Array.data[2]
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
-        type: 2}
-      propertyPath: fsm.states.Array.data[0].actionData.actionIsOpen.Array.data[3]
-      value: 1
-      objectReference: {fileID: 0}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[0].value
+      value: 
+      objectReference: {fileID: 1873077145}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 962af5479cb74d04598895a191247250, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &458791598 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1007005144117340, guid: 962af5479cb74d04598895a191247250,
+    type: 2}
+  m_PrefabInternal: {fileID: 458791597}
+--- !u!1 &458791599 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1658230225508304, guid: 962af5479cb74d04598895a191247250,
+    type: 2}
+  m_PrefabInternal: {fileID: 458791597}
+--- !u!1 &458791600 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1670241723553488, guid: 962af5479cb74d04598895a191247250,
+    type: 2}
+  m_PrefabInternal: {fileID: 458791597}
 --- !u!1001 &464584997
 Prefab:
   m_ObjectHideFlags: 0
@@ -640,6 +666,25 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 638b6bf51df414f25893679aa814bd2c, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &464584998 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1356543437008108, guid: 638b6bf51df414f25893679aa814bd2c,
+    type: 2}
+  m_PrefabInternal: {fileID: 464584997}
+--- !u!111 &464584999
+Animation:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 464584998}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &481742511
 GameObject:
   m_ObjectHideFlags: 0
