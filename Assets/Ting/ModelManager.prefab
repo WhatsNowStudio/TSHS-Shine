@@ -1442,7 +1442,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 1670241723553488}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -1895,7 +1895,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 1670241723553488}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -2116,7 +2116,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 1658230225508304}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -2124,7 +2124,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 1007005144117340}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -2256,7 +2256,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 1658230225508304}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -2264,7 +2264,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 1007005144117340}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -2694,7 +2694,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 1670241723553488}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -3147,13 +3147,13 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1670241723553488}
       - useVariable: 1
         name: Obj/ButtonPutBG
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1007005144117340}
       - useVariable: 1
         name: Obj/Button_Reset
         tooltip: 
@@ -3183,7 +3183,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1658230225508304}
       objectVariables:
       - useVariable: 1
         name: Object/FocusSquareFocused_Transfrom
@@ -3493,8 +3493,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 1078.07, y: 300}
-  m_SizeDelta: {x: -2156.14, y: -84.2}
+  m_AnchoredPosition: {x: -750, y: 300}
+  m_SizeDelta: {x: -1500, y: -84.2}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!224 &224896760811834422
 RectTransform:
