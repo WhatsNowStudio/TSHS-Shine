@@ -480,12 +480,12 @@ Prefab:
         type: 2}
       propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873077145}
     - target: {fileID: 114145703276712590, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.variables.gameObjectVariables.Array.data[0].value
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873077145}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
