@@ -1194,14 +1194,14 @@ MonoBehaviour:
         paramName: []
         paramDataPos: 
         paramByteDataSize: 
-    - name: AnimaorPlay
+    - name: AnimatorPlay
       description: 
       colorIndex: 0
       position:
         serializedVersion: 2
         x: 300
         y: 110
-        width: 114
+        width: 119
         height: 16
       isBreakpoint: 0
       isSequence: 0
@@ -1239,7 +1239,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "\u4E2D\u5E841"
+          value: "\u4E2D\u5E84"
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -1288,7 +1288,7 @@ MonoBehaviour:
         name: Replay
         isSystemEvent: 0
         isGlobal: 1
-      toState: AnimaorPlay
+      toState: AnimatorPlay
       linkStyle: 0
       linkConstraint: 0
       colorIndex: 0
