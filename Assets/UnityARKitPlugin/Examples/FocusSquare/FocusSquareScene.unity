@@ -669,8 +669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec20d460fbb7e4f92b4d84a10da98cd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointCloudParticlePrefab: {fileID: 198314236125653888, guid: 87db9decf4b3e4cb8bf3eea22ccd37f5,
-    type: 2}
+  pointCloudParticlePrefab: {fileID: 0}
   maxPointsToShow: 10000
   particleSize: 0.01
 --- !u!1 &747402895
