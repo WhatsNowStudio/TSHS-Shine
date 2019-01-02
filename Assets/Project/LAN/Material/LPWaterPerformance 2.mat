@@ -90,7 +90,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0, g: 0.19833922, b: 1, a: 1}
-    - _DeepColor: {r: 0, g: 0.19833922, b: 1, a: 1}
+    - _DeepColor: {r: 0, g: 0.8143573, b: 1, a: 1}
     - _Direction_: {r: -1, g: -0.00000008742278, b: -0.059999995, a: -0.0000000052453664}
     - _FresColor: {r: 0, g: 1, b: 0.92101526, a: 0.627451}
     - _ShoreColor: {r: 0, g: 1, b: 0.8806343, a: 0.6}

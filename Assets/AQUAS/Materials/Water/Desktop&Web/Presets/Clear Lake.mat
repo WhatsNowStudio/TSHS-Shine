@@ -7,11 +7,10 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Clear Lake
-  m_Shader: {fileID: 4800000, guid: 7ca90df62af20df49bac17e92a0f5766, type: 3}
-  m_ShaderKeywords: _ENABLEREFLECTIONS_ON _USEREFLECTIONS_ON
+  m_Shader: {fileID: 4800000, guid: f625f9c13440d4e49bf26284e1c8c132, type: 3}
+  m_ShaderKeywords: _ENABLEREFLECTIONS_ON
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -58,12 +57,8 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Normal:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _NormalTexture:
-        m_Texture: {fileID: 2800000, guid: 7fbf1d22ff9c5a24e8d13360a24a3f77, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -89,9 +84,8 @@ Material:
     - _DepthTransparency: 10
     - _DetailNormalMapScale: 1
     - _DistanceTilingFade: 1
-    - _Distortion: 2
+    - _Distortion: 0.15
     - _DstBlend: 0
-    - _EmissionIntensity: 0
     - _EnableCustomFog: 0
     - _EnableReflections: 1
     - _Fade: 0.85
@@ -119,41 +113,33 @@ Material:
     - _MediumWavesTiling: 4
     - _Metallic: 0
     - _Mode: 0
-    - _NormalTiling: 100
+    - _NormalTiling: 1
     - _OcclusionStrength: 1
-    - _OffsetSmallBigSmall: 1
-    - _OffsetSmallBigSmallBig: 0
     - _Parallax: 0.02
     - _ReflectionIntensity: 0.436
-    - _Reflectionintensity: 0.5
     - _Refraction: 0.67
     - _RefractionDistance: 10
     - _RefractionFalloff: 1
-    - _ShallowDeepBlend: 3.6
     - _ShoreFade: 0.56
     - _ShoreTransparency: 0.5
     - _SmallWaveRrefraction: 1.16
     - _SmallWavesSpeed: 60
     - _SmallWavesTiling: 2
-    - _Specular: 3
+    - _Specular: 1
     - _SrcBlend: 1
-    - _Tiling: 1
     - _UVSec: 0
     - _UnderwaterMode: 0
     - _UnderwaterTranspDist: 16.4
     - _UnderwaterTranspFalloff: 0.78
-    - _UseReflections: 0.5392157
     - _WaveBlend: 0.77
     - _WaveFade: 1.19
     - _WaveSpeed: 40
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DeepWaterColor: {r: 0, g: 0.6544118, b: 0.49193722, a: 1}
+    - _DeepWaterColor: {r: 0.01135381, g: 0.11889393, b: 0.1544118, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EmissiveColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _FoamColor: {r: 0.3823529, g: 0.3879758, b: 0.3879758, a: 1}
     - _FogColor: {r: 0.8014706, g: 0.8014706, b: 0.8014706, a: 1}
     - _MainColor: {r: 0, g: 1, b: 1, a: 1}
-    - _ShallowWaterColor: {r: 0.4411765, g: 0.9537525, b: 1, a: 1}
     - _SpecularColor: {r: 0.7205882, g: 0.7311851, b: 0.7311851, a: 1}
