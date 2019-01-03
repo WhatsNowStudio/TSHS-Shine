@@ -451,7 +451,7 @@ Prefab:
         type: 2}
       propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
       value: 
-      objectReference: {fileID: 464584998}
+      objectReference: {fileID: 0}
     - target: {fileID: 114780345572847198, guid: 962af5479cb74d04598895a191247250,
         type: 2}
       propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
@@ -621,7 +621,7 @@ Prefab:
       propertyPath: m_RootOrder
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 114464863982622212, guid: 638b6bf51df414f25893679aa814bd2c,
+    - target: {fileID: 114193469643484788, guid: 638b6bf51df414f25893679aa814bd2c,
         type: 2}
       propertyPath: fsm.states.Array.data[0].actionData.fsmGameObjectParams.Array.data[0].value
       value: 
@@ -629,11 +629,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 638b6bf51df414f25893679aa814bd2c, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &464584998 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1356543437008108, guid: 638b6bf51df414f25893679aa814bd2c,
-    type: 2}
-  m_PrefabInternal: {fileID: 464584997}
 --- !u!1 &481742511
 GameObject:
   m_ObjectHideFlags: 0
