@@ -6,15 +6,14 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: WaterFake
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Name: WaterReal
+  m_Shader: {fileID: 4800000, guid: 1cac2e0bcc34e4b3cbb4bd85982eba83, type: 3}
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _DETAIL_MULX2 _NORMALMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
-  stringTagMap:
-    RenderType: Transparent
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -44,7 +43,7 @@ Material:
         m_Scale: {x: 0.1, y: 0.1}
         m_Offset: {x: 0, y: 0}
     - _Fresnel:
-        m_Texture: {fileID: 2800000, guid: ab97f9ab7c2ce724ebc9446060a819a4, type: 3}
+        m_Texture: {fileID: 2800000, guid: b9ffadeda0b1dd1469108c25c70de63e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Illum:
@@ -72,7 +71,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ReflectiveColor:
-        m_Texture: {fileID: 2800000, guid: ab97f9ab7c2ce724ebc9446060a819a4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 047330f39d11745ad0004adb8d76c639, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _RefractionTex:
@@ -98,17 +97,17 @@ Material:
     - _Mode: 3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ReflDistort: 0.052
-    - _RefrDistort: 0.052
+    - _ReflDistort: 0.31
+    - _RefrDistort: 0.8
     - _Shininess: 200
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
-    - _WaveScale: 0.15
+    - _WaveScale: 0.115
     - _ZWrite: 0
     m_Colors:
-    - WaveSpeed: {r: 3, g: 3, b: 3, a: -3}
+    - WaveSpeed: {r: 1, g: 0.1, b: -1, a: -3.5}
     - _AnimationDirection: {r: 1, g: 1, b: 1, a: 1}
     - _AnimationTiling: {r: 2.2, g: 2.2, b: -1.1, a: -1.1}
     - _BaseColor: {r: 0, g: 0, b: 0, a: 0}
@@ -124,10 +123,10 @@ Material:
     - _GFrequency: {r: 1.3, g: 1.35, b: 1.25, a: 1.25}
     - _GSpeed: {r: 1.2, g: 1.375, b: 1.1, a: 1.5}
     - _GSteepness: {r: 1, g: 1, b: 1, a: 1}
-    - _HorizonColor: {r: 0.172, g: 0.463, b: 0.435, a: 1}
+    - _HorizonColor: {r: 0.13683695, g: 0.39076528, b: 0.7075472, a: 0}
     - _InvFadeParemeter: {r: 0.001, g: 0, b: 0, a: 0}
     - _ReflectionColor: {r: 0, g: 0, b: 0, a: 0}
-    - _RefrColor: {r: 0.10510381, g: 0.7941176, b: 0.48049745, a: 1}
+    - _RefrColor: {r: 0, g: 0.51916146, b: 1, a: 1}
     - _SpecularColor: {r: 0.72, g: 0.72, b: 0.72, a: 1}
     - _WorldLightDir: {r: 0, g: 0.1, b: -0.5, a: 0}
     - _horizonColor: {r: 0.172, g: 0.463, b: 0.435, a: 0}
